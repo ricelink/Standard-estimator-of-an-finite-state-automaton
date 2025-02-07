@@ -1,4 +1,4 @@
-function Theta_estimator = estimator2(G,Typehere)
+function Theta_estimator = estimator(G,Typehere)
 %standard_observer
 % full observer
 
