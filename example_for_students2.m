@@ -10,5 +10,5 @@ G=create_non_automaton_multi_ini(...
             {'a','b','c',}...%observable events
             );
 
-Estimator = estimator2(G,'standard_observer')
+Estimator = estimator(G,'standard_observer')
 % fig_automaton(G,['Estimator'],2)
